@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0525/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說法常住經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T17/T17n0819.xml
+    old_id: T17n0819
+hash: sha256:981d021d36c770bef311174591cd4125e5599ac4943d640ea2633d581b59f9b3
