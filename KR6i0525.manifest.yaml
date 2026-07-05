@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0525_000.yaml, hash: 'sha256:981d021d36c770bef311174591cd4125e5599ac4943d640ea2633d581b59f9b3'}
-  - {seq: 1, filename: KR6i0525_001.yaml, hash: 'sha256:d872277e899a98a1dfb4d4ce07131062b2d05d7153f62e14111b4f4e5c16adb4'}
+  - {seq: 1, filename: KR6i0525_001.yaml, hash: 'sha256:cf1154955aa7e3bc3f79b36ac5c40e3f92bcefb0da55bca25b62c7cc2db3266c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0525_001.markers.yaml, hash: 'sha256:6fed591dbf307047dbfaf90aef9ec8afd62163a2309840228b89765eb7ae741c'}
+  - {seq: 0, role: markers, filename: assets/KR6i0525_000.markers.yaml, hash: 'sha256:a919d8134f065be33a51b97df3339dbe0e1d05c584014b731a50828467dd5714'}
+  - {seq: 1, role: markers, filename: assets/KR6i0525_001.markers.yaml, hash: 'sha256:cd52179f67a7dd14362145e9c200ffcadd1f3ddd53403fb9fd88a134a9eb7ab1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 佛說法常住經
   type: juan
   level: 1
-hash: sha256:8fa23bd8cb37c340bef4ad40970f746f36429554295c0c96c363feb323e37601
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:51de46124e26ce3bb4b360c7dc98bf7254a36a699e67adcbc334fab1422a65ba
