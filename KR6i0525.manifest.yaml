@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0525/v1
 canonical_location: https://kanripo.org/bkk/KR6i0525/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說法常住經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0525_000.yaml, hash: 'sha256:981d021d36c770bef311174591cd4125e5599ac4943d640ea2633d581b59f9b3'}
-  - {seq: 1, filename: KR6i0525_001.yaml, hash: 'sha256:cf1154955aa7e3bc3f79b36ac5c40e3f92bcefb0da55bca25b62c7cc2db3266c'}
+  - {seq: 1, filename: KR6i0525_001.yaml, hash: 'sha256:76182b3b68ab29a9438886ea1434d26806ef9aa71cbf96c01ae2abbd031fe2af'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0525_000.markers.yaml, hash: 'sha256:a919d8134f065be33a51b97df3339dbe0e1d05c584014b731a50828467dd5714'}
-  - {seq: 1, role: markers, filename: assets/KR6i0525_001.markers.yaml, hash: 'sha256:cd52179f67a7dd14362145e9c200ffcadd1f3ddd53403fb9fd88a134a9eb7ab1'}
+  - {seq: 1, role: markers, filename: assets/KR6i0525_001.markers.yaml, hash: 'sha256:6b6f9bd4af73df2b62356a84f9d7f7b9a7baa0634ad01ec6153aa4c1f80971d6'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 佛說法常住經
   type: juan
   level: 1
-hash: sha256:51de46124e26ce3bb4b360c7dc98bf7254a36a699e67adcbc334fab1422a65ba
+hash: sha256:64a4929bb50993a7d656536f7732dc991ac865560b052e74f0d0e2a1b994a700
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
